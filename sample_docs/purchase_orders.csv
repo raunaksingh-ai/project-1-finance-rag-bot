@@ -1,0 +1,11 @@
+po_number,supplier,total_usd,order_date,delivery_date,department,status,items
+PO-2024-001,TechSupply Ltd,4750.50,2024-01-10,2024-01-20,IT,Delivered,10x network switches
+PO-2024-002,Acme Corp,12500.00,2024-01-12,2024-01-25,Engineering,Delivered,Annual software license bundle
+PO-2024-003,GlobalLogistics Inc,8900.00,2024-01-28,2024-02-05,Operations,Delivered,Freight contract Q1
+PO-2024-004,PrimeVendor Co,15750.00,2024-03-20,2024-04-05,Marketing,In Progress,Campaign print materials
+PO-2024-005,DataVault Systems,21000.00,2024-02-25,2024-03-01,IT,Delivered,Cloud storage 12-month contract
+PO-2024-006,Acme Corp,3200.00,2024-02-05,2024-02-15,Finance,Delivered,Consulting engagement Feb 2024
+PO-2024-007,TechSupply Ltd,6100.00,2024-03-10,2024-03-18,IT,Delivered,Rack servers and cabling
+PO-2024-008,Acme Corp,9400.00,2024-04-05,2024-04-20,Engineering,In Progress,Software licenses Q2 renewal
+PO-2024-009,GlobalLogistics Inc,3300.00,2024-09-15,2024-10-01,Operations,Delivered,Q4 freight pre-booking
+PO-2024-010,DataVault Systems,21000.00,2024-10-10,2024-10-20,IT,In Progress,Storage renewal Q4 2025

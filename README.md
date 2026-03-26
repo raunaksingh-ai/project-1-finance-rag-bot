@@ -42,8 +42,8 @@ An AI-powered question-answering system for financial documents using Retrieval-
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/finance-rag-bot.git
-cd finance-rag-bot
+git clone https://github.com/raunaksingh-ai/project-1-finance-rag-bot.git
+cd project-1-finance-rag-bot
 
 # Install dependencies
 pip install -r requirements.txt
