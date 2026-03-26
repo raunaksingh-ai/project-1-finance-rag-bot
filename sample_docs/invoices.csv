@@ -9,3 +9,4 @@ INV-2024-007,PrimeVendor Co,15750.00,2024-04-01,2024-05-01,Net 30,Outstanding,Ma
 INV-2024-008,Acme Corp,9400.00,2024-04-10,2024-05-10,Net 30,Outstanding,Software licenses Q2 2024
 INV-2024-009,GlobalLogistics Inc,3300.00,2024-10-01,2024-10-31,Net 30,Paid,Q4 freight services
 INV-2024-010,DataVault Systems,21000.00,2024-10-15,2024-11-14,Net 30,Outstanding,Annual renewal Q4 2025
+SUMMARY,Outstanding balances by supplier: DataVault Systems=$42000 (INV-2024-005 + INV-2024-010); PrimeVendor Co=$15750 (INV-2024-007); Acme Corp=$9400 (INV-2024-008); GlobalLogistics Inc=$8900 (INV-2024-003); TechSupply Ltd=$4750.50 (INV-2024-002). Highest outstanding balance supplier is DataVault Systems with $42000 total outstanding.
