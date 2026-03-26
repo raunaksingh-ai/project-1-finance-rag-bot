@@ -92,6 +92,23 @@ finance-rag-bot/
 - "Show me all purchase orders from Q4 2025"
 - "What are the payment terms for Acme Corp?"
 
+## Demo Screenshots
+
+**App UI**
+![Finance RAG Bot UI](screenshots/1-ui-loaded.png)
+
+**Document Ingestion — 2 CSV files, chunks stored in ChromaDB**
+![Ingest Success](screenshots/2-ingest-success.png)
+
+**RAG Answer with Source Attribution**
+![Payment Terms Answer](screenshots/3-payment-terms-answer.png)
+
+**Multi-document Reasoning**
+![Supplier Balance Answer](screenshots/4-supplier-balance-answer.png)
+
+**Local Model Running — zero API cost**
+![Terminal Model Download](screenshots/5-terminal-model-download.png)
+
 ## License
 
 MIT
