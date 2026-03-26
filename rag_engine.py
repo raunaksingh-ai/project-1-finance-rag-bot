@@ -1,9 +1,9 @@
 from langchain_community.vectorstores import Chroma
-from langchain.chains import RetrievalQA
+from langchain_classic.chains import RetrievalQA
 from langchain_community.llms import Ollama
 from langchain_openai import ChatOpenAI
-from langchain.prompts import PromptTemplate
-from langchain.schema import Document
+from langchain_core.prompts import PromptTemplate
+from langchain_core.documents import Document
 
 from config import config
 from embeddings import get_embedding_function
